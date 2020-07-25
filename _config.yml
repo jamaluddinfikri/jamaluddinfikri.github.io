@@ -1,6 +1,6 @@
 # Site
 title:              Hello, I'M Jamaluddin Fikri
-bio:                'Freelance devops and linux administrator.'
+bio:                'DevOps Engineer | System Engineer | System Administrator'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ sass:
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         jamaluddinfikri
+github-url:         jams008
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           jamaluddin008
 #xing:              username
